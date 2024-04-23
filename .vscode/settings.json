@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./neural-data-master/02-calcium_imaging/CaImAn"
+    ]
+}
